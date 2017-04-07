@@ -8,6 +8,7 @@ git clone --recursive $REPO .vim
 ln -sf .vim/vimrc .vimrc
 cd .vim/
 git submodule update --init
+./install-command-t.sh
 ```
 
 ---
