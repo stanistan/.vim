@@ -1,3 +1,12 @@
 [submodule "bundle/command-t"]
 	path = bundle/command-t
 	url = https://github.com/wincent/command-t
+[submodule "bundle/rust.vim"]
+	path = bundle/rust.vim
+	url = https://github.com/rust-lang/rust.vim
+[submodule "bundle/vim-toml"]
+	path = bundle/vim-toml
+	url = https://github.com/cespare/vim-toml
+[submodule "bundle/vim-rustpeg"]
+	path = bundle/vim-rustpeg
+	url = https://github.com/rhysd/vim-rustpeg
