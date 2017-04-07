@@ -16,6 +16,7 @@ This uses [Pathogen](https://github.com/tpope/vim-pathogen).
 
 ### Plugins
 
+* [github.com/vim-scripts/RootIgnore](https://github.com/vim-scripts/RootIgnore)
 * [github.com/wincent/command-t](https://github.com/wincent/command-t)
 * [github.com/Yggdroot/indentLine](https://github.com/Yggdroot/indentLine)
 * [github.com/scrooloose/nerdtree](https://github.com/scrooloose/nerdtree)
@@ -28,4 +29,3 @@ This uses [Pathogen](https://github.com/tpope/vim-pathogen).
 * [github.com/tpope/vim-sensible](https://github.com/tpope/vim-sensible)
 * [github.com/cespare/vim-toml](https://github.com/cespare/vim-toml)
 * [github.com/vimwiki/vimwiki](https://github.com/vimwiki/vimwiki)
-
