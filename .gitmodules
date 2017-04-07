@@ -10,3 +10,6 @@
 [submodule "bundle/vim-rustpeg"]
 	path = bundle/vim-rustpeg
 	url = https://github.com/rhysd/vim-rustpeg
+[submodule "bundle/nerdtree"]
+	path = bundle/nerdtree
+	url = https://github.com/scrooloose/nerdtree
