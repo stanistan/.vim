@@ -33,7 +33,7 @@ let g:CommandTTraverseSCM = 'pwd'
 
 " Vimwiki is markdown
 let g:vimwiki_list = [
-  \ {'path': '~/vimwiki/', 'syntax': 'ghmarkdown', 'ext': '.md'}
+  \ {'path': '~/vimwiki/', 'syntax': 'markdown', 'ext': '.md'}
   \ ]
 
 " vim:ts=2:sw=2:et
