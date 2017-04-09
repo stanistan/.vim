@@ -9,6 +9,7 @@ set number
 
 " NERDTree
 autocmd vimenter * NERDTree
+autocmd bufenter * if (winnr("$") == 1 && exists("b:NERDTree") && b:NERDTree.isTabTree()) | q | endif
 
 " When over 90 chars, make the col red.
 highlight OverLength ctermbg=red ctermfg=white guibg=#592929
