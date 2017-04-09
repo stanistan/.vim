@@ -6,6 +6,7 @@ set shiftwidth=4
 set expandtab
 set nowrap
 set number
+set mouse=a
 
 " NERDTree
 autocmd vimenter * NERDTree
